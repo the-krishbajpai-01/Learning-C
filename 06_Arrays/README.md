@@ -1,8 +1,8 @@
-# C Arrays: Notes, Programs and Mini Projects
+# C Arrays Notes
 
-My learning journey with arrays in C, from the basics to building small real-world projects.
+My learning journey with arrays in C.
 
-## Table of Contents
+# Table of Contents
 1. [What is an array](#1-what-is-an-array)
 2. [Declaration and initialization](#2-declaration-and-initialization)
 3. [Input, output and traversal](#3-input-output-and-traversal)
