@@ -1,6 +1,6 @@
-# Strings in C: Notes, Programs and Mini Projects
+# Strings in C Notes
 
-Notes from my learning journey with strings in C, from the basics to building small text-based projects.
+Notes from my learning journey with strings in C
 
 ## Table of Contents
 1. [What is a string](#1-what-is-a-string)
